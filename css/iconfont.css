@@ -14,6 +14,7 @@
 }
 
 .icon-boshimao:before {
+  font-size: 20px;
   content: "\e602";
 }
 
@@ -26,10 +27,12 @@
 }
 
 .icon-QQ:before {
+  font-size: 24px;
   content: "\e882";
 }
 
 .icon-youxiang:before {
+  font-size: 24px;
   content: "\e611";
 }
 
