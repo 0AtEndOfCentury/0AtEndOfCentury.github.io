@@ -1,6 +1,6 @@
 // 动态心跳，更改自己的名称
 $(document).ready(function(e){
-    $('.copyright').html('<i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By 世纪末的赛罗');
+    $('.copyright').html('©2023 <i class="fa-fw fas fa-heartbeat card-announcement-animation cc_pointer"></i> By 世纪末的赛罗');
 })
 
 $(document).ready(function(e){
