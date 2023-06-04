@@ -9,5 +9,5 @@
 /*黑暗主题下的配置*/
 [data-theme=dark] #aside-content>.card-widget.card-info {
     /*换成自己图片的地址*/
-    background-image: url('/img/perdarkbg2.png') !important
+    background-image: url('/img/perdarkbg.png') !important
 }
