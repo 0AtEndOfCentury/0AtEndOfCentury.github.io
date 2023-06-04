@@ -12,13 +12,13 @@
 }
 
 /*导航栏居中*/
-#nav-right{
+/*#nav-right{
 	flex:1 1 auto;
 	justify-content: flex-end;
 	margin-left: auto;
 	display: flex;
 	flex-wrap:nowrap;
-}
+}*/
 
 /*导航栏常驻*/
 .nav-fixed #nav{
