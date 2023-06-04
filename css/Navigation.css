@@ -9,7 +9,7 @@
 #pagination {
 	width: 100%;
 	margin: auto;
-  }
+}
 
 /*显示标题*/
 #page-name::before {
