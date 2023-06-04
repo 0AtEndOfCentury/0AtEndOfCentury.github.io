@@ -59,8 +59,8 @@
 }
 
 #page-name {
-	position: relative;
-	padding: 10px 30px
+	position: absolute;
+	padding: 30px 30px
 }
 
 #nav {
