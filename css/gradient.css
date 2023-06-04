@@ -1,7 +1,7 @@
 /*白天主题下的配置*/
 #aside-content>.card-widget.card-info {
     /*换成自己图片的地址*/
-    background-image: url('/img/personbg.jpeg');
+    background-image: url('/img/perdarkbg.png');
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-size: 100%
