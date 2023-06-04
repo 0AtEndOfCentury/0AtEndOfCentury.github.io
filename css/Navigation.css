@@ -1,16 +1,15 @@
-#nav .menus_items {
+/*#nav .menus_items {
     position: absolute;
     width: fit-content;
     left: 50%;
     transform: translateX(-50%);
-}
+}*/
 
 /* 翻页按钮居中 */
 #pagination {
 	width: 100%;
 	margin: auto;
 }
-
 
 
 /*显示标题*/
@@ -31,7 +30,7 @@
 	-o-transition: all .3s;
 	opacity: 0;
 	box-shadow: 0 0 3px var(--lyx-theme);
-	line-height: 30px;
+	line-height: 45px;
 	/*如果垂直位置不居中可以微调此值，也可以删了*/
 }
 
@@ -65,5 +64,5 @@
 }
 
 #nav {
-	padding: 20px 20px;
+	padding: 0px 20px;
 }
