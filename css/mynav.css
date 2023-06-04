@@ -4,15 +4,8 @@
     left: 50%;
     transform: translateX(-50%);
 }
-/*
-#nav-right{
-	flex:1 1 auto;
-	justify-content: flex-end;
-	margin-left: auto;
-	display: flex;
-	flex-wrap:nowrap;
-}*/
-/*
+
+
 .nav-fixed #nav{
     transform: translateY(58px)!important;
     -webkit-transform: translateY(58px)!important;
@@ -26,4 +19,4 @@
     -moz-transition: none!important;
     -ms-transition: none!important;
     -o-transition: none!important;
-}*/
+}
