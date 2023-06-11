@@ -5,6 +5,7 @@
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-size: 100%
+    
 }
 /*黑暗主题下的配置*/
 [data-theme=dark] #aside-content>.card-widget.card-info {
