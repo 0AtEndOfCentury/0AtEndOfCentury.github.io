@@ -1,44 +1,57 @@
 @font-face {
-  font-family: "iconfont"; /* Project id 4100056 */
-  src: url('iconfont.woff2?t=1685627358152') format('woff2'),
-       url('iconfont.woff?t=1685627358152') format('woff'),
-       url('iconfont.ttf?t=1685627358152') format('truetype');
+  font-family: "iconfont"; /* Project id 4132297 */
+  /* Color fonts */
+  src: 
+       url('iconfont.woff2?t=1687269552474') format('woff2'),
+       url('iconfont.woff?t=1687269552474') format('woff'),
+       url('iconfont.ttf?t=1687269552474') format('truetype');
 }
 
 .iconfont {
   font-family: "iconfont" !important;
-  font-size: 16px;
+  /*font-size: 16px;*/
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-boshimao:before {
-  font-size: 21px;
-  content: "\e602";
+.icon-search:before {
+  font-size: 22px;
+  content: "\e8ef";
 }
 
-.icon-planetspacefl:before {
-  content: "\e614";
+.icon-riqi:before {
+  font-size: 20px;
+  content: "\e6fc";
 }
 
-.icon-xingkong:before {
-  font-size: 35px;
-  content: "\e744";
+.icon-wo:before {
+  font-size: 18px;
+  content: "\e600";
+}
+
+.icon-home_fill_light:before {
+  font-size: 20px;
+  content: "\e7d8";
+}
+
+.icon-tag-fill:before {
+  font-size: 20px;
+  content: "\e86e";
 }
 
 .icon-QQ:before {
-  font-size: 24px;
+  font-size: 26px;
   content: "\e882";
 }
 
 .icon-youxiang:before {
-  font-size: 24px;
-  content: "\e611";
+  font-size: 26px;
+  content: "\e645";
 }
 
-.icon-shijianxian:before {
-  font-size: 18px;
-  content: "\e674";
+.icon-category:before {
+  font-size: 20px;
+  content: "\e84d";
 }
 
